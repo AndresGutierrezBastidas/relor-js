@@ -1,0 +1,13 @@
+body {
+     background: #222d2d url(/css/Tapete-AS-Creation-Coffee-Vintage-dunkelbraun-3348.jpg) repeat-x 0 0; }
+#reloj{ 
+    color: black;
+    width: 400px;
+    height: 30px;
+    padding: 5px 10px; 
+    font-size: 50px;
+    font-weight: 500;
+    text-align: center;
+    float: right;
+    margin: 1em 3em 1em 1em;
+}
